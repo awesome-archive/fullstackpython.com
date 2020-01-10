@@ -1,1 +1,3 @@
-See the [gh-pages](https://github.com/makaimc/fullstackpython.github.com/tree/gh-pages) branch for source code.
+This repository contains the source code for 
+[Full Stack Python](https://www.fullstackpython.com/).
+

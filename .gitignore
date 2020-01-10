@@ -1,5 +1,6 @@
 *.py[co]
 *.swp
+*.swo
 
 # Packages
 *.egg
@@ -28,3 +29,16 @@ pip-log.txt
 .mr.developer.cfg
 
 .DS_Store
+
+# Emacs backups
+*~
+
+source/cache/
+venv
+
+generated/
+output/
+
+__pycache__/
+.env
+tempcontent/
